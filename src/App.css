@@ -23,6 +23,16 @@
   color: #61dafb;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+button:hover {
+  background-color: pink;
+  color: white;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
